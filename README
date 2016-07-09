@@ -1,0 +1,18 @@
+This github repository deals with the core technology that is used in the article. It contains codes for using the IBM Bluemix APIs. The crdentials for using the API are temporary and you need to change those before using them.
+
+Git clone the repository and create a virtual environment and then run the python script text-to-speech.py  through command line. after that you will see an MP3 as the OUTPUT, this will give you tone and entities related to the text.
+
+The text is saved in mytext.txt, you can change that according to you.
+
+
+important modules you need to install in virtual environment :
+
+watson-developer-cloud
+gtts(google text to speech)
+pandas
+numpy
+
+If it still shows error, install the modules accordingly.
+
+For further details contact :
+janpreetds@gmail.com
